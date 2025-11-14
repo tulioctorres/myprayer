@@ -4,6 +4,7 @@ html, body {
 
 body {
 	font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #fce3c5;
 }
 
 h1 {
@@ -26,19 +27,23 @@ h2 {
     font-weight: bold;
 }
 
+#logo {
+    width: 200px;
+}
+
 .banner {
 	height: 100%;
-	background-color: #1da1f2;
+	background-color: #618777;
 }
 
 .title {
-	color: #1da1f2;
+	color: #618777;
 	font-size: 27px;
     line-height: 32px;
 }
 
 .subtitle {
-	color: #14171a;
+	color: #618777;
     font-size: 18px;
     line-height: 24px;
     margin: 16px auto;
@@ -82,7 +87,7 @@ h2 {
 .menuItem, .menuItem:hover {
     font-size: 13px;
     font-weight: bold;
-    color: #1DA1F2;
+    color: #618777;
     text-decoration: none;
     margin-right: 25px;
 
@@ -109,7 +114,7 @@ h2 {
 
 .perfilTopo {
     height: 95px;
-    background-color: #1DA1F2
+    background-color: #618777
 }
 
 .perfilPainel {
@@ -139,14 +144,14 @@ h2 {
     font-weight: bold;
     padding-top: 3px;
     transition: color .15s;
-    color: #1DA1F2 !important;
+    color: #618777 !important;
 }
 
 .tweetBox {
     border-top-left-radius: inherit;
     border-top-right-radius: inherit;
     border: 1px solid #e6ecf0;
-    background-color: #E8F5FD;
+    background-color: #61877793;
     padding:25px;
 }
 
@@ -169,7 +174,7 @@ h2 {
 }
 
 .quemSeguirTxt, .quemSeguirTxt:hover {
-    color: #1DA1F2;
+    color: #618777;
     text-decoration: none;
     font-size: 12px;
     line-height: 16px;
@@ -182,5 +187,5 @@ h2 {
 }
 
 .tweet:hover {
-    background-color: #f5f8fa;
+    background-color: #6187774b;
 }
