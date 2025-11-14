@@ -17,3 +17,5 @@ Se inscreva e entre na aplicação.
 // GITHUB
 
 Criação do ambiente de desenvolvimento com o nome 'myprayer' - tradução minha oração
+
+// PROXIMO TRABALHO ARRUMAR TELA DE SEGUIDORES (CONTAGEM)
